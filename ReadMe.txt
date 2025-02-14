@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ****Important****
 
-	After importing the "rental_appliances" SQL file, please change to your own MySQL database, uid and pwd in all necessary files of my program.
+	After importing the "rental_appliances.sql" SQL file, please change to your own MySQL database, uid and pwd in all necessary files of my program.
 
 
 // Database connection string
