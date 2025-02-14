@@ -4,9 +4,9 @@ To run and test my HomeRentalAppliancesSystem, the following steps are necessary
 
 2.After download mysql server and workbench installs mysqldump file to your mysql server local database
 
- - I have included "rental_appliances" SQL file.
+ - I have included "rental_appliances.sql" SQL file.
 
- - Please import this "rental_appliances" SQL file into the MySQL Workbench.
+ - Please import this "rental_appliances.sql" SQL file into the MySQL Workbench.
 
 3.Add references "MySql.Data" extension to project file.
 ________________________________________________________________________________________
